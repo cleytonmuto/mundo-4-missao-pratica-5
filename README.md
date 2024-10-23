@@ -22,3 +22,7 @@ RPG0027 - Vamos interligar as coisas com a nuvem
 ## Funcionalidades
 
 - Geração de dados de temperatura, envio para a nuvem [Azure](https://portal.azure.com), consulta dos dados e geração do gráfico.
+
+- Vídeo de demonstração: [IoT Hub Temperature Sensor Local](https://www.youtube.com/watch?v=3PZaPbkfUYM&ab_channel=CleytonMuto)
+
+- Vídeo de demonstração: [IoT Hub Temperature Sensor Web](https://www.youtube.com/watch?v=_N0ZeR5MOTs&ab_channel=CleytonMuto)
